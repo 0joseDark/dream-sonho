@@ -1,5 +1,5 @@
 # dream
- hello, i am a dream, and talents, eyes that deconstruct, whether living animals or machines, I have the dream, to send machines to Mars to build for humans
+ hello, i am have a dream, and talents, eyes that deconstruct, whether living animals or machines, I have the dream, to send machines to Mars to build for humans
  ""
  # Sonho de Exploração Espacial
 
