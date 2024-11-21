@@ -1,3 +1,4 @@
+![My-foto-av](https://github.com/0joseDark/0joseDark/blob/main/assets/douctor.jpg)
 # dream
  hello, i am have a dream, and talents, eyes that deconstruct, whether living animals or machines, I have the dream, to send machines to Mars to build for humans
  ""
