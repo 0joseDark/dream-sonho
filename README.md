@@ -5,6 +5,8 @@
  - - [english version](https://github.com/0joseDark/dream/blob/main/en-README.md)
    - minha ideia é fazer o que está feito, e testar novas coisas como bots/robots
    - My idea is to do what is already done, and test new things like bots/robots
+   - minha ideia é fazer bots/robôs com IA, e podem ser condusidos
+   - My idea is to make bots/robots with AI, and they can be driven
  # Sonho de Exploração Espacial
 
 Visão que combina elementos essenciais:
