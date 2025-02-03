@@ -9,6 +9,8 @@
    - My idea is to make bots/robots with AI, and they can be driven
    - nós ter ferramentas IA, só precisamos fazer a IA fazer as coisas como bots/robôs com IA, e podem ser condusidos
    - we have AI tools, we just need to make AI do things like AI bots/robots, and they can be driven
+   - nós pode usar a AI
+   - we can usa the AI
  # Sonho de Exploração Espacial
 
 Visão que combina elementos essenciais:
