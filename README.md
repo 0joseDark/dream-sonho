@@ -50,7 +50,7 @@ Visão que combina elementos essenciais:
  - Soluções para habitação em Marte
 
 ---
-
+ - - [derreter e moldar metal](https://github.com/0joseDark/dream/blob/main/derreter-moldar-metal.md)
 *Perguntas para reflexão:*
 - Qual sua experiência nestas áreas?
 - Como você imagina a preparação de Marte para habitação?
