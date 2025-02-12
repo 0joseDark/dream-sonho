@@ -1,4 +1,4 @@
-- projeto dum metor a gaz, sem pessas moveis, controlado eletronicamente, e por softowar.
+- projeto dum metor a gaz, sem pessas moveis, controlado eletronicamente, e por software.
 # vamos por passos:
 1 o motor a gaz:
 2 o gaz usado:
