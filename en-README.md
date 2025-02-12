@@ -18,7 +18,7 @@ Vision that combines essential elements:
  - Knowledge of mechanical systems
 
 3. **Space Expansion**
- - ![jet propulsion](https://github.com/0joseDark/dream/blob/main/English-jet-propulsion.md)
+ - [jet propulsion](https://github.com/0joseDark/dream/blob/main/English-jet-propulsion.md)
  - Aspiration for colonization beyond Earth
  - Development of extraterrestrial habitats
 
