@@ -1,6 +1,9 @@
  . ![My-foto-av](https://github.com/0joseDark/0joseDark/blob/main/assets/douctor.jpg)
  - book, under construction
  - hello, I have a dream, and talents, eyes that deconstruct, while animals live or machines, I have the dream, to send machines to Mars to build for humans
+ - My idea is to improve what has already been done and explore new possibilities, such as bots and robots.
+ - We have AI tools; we just need to use them to create intelligent bots/robots that can be driven.
+ - We can explore different approaches to make AI more efficient and interactive, applying it to controllable robots.
  - ![Biography](https://github.com/0joseDark/dream/blob/main/Biography.md)
 # Space Exploration Dream
 
