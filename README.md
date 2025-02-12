@@ -4,15 +4,11 @@
  ""
  # [Biografia ou Currículo](https://github.com/0joseDark/dream/blob/main/Biografia-Curr%C3%ADculo.md)
  - - [english version](https://github.com/0joseDark/dream/blob/main/en-README.md)
-   - minha ideia é fazer o que está feito, e testar novas coisas como bots/robots
-   - My idea is to do what is already done, and test new things like bots/robots
-   - minha ideia é fazer bots/robôs com IA, e podem ser condusidos
-   - My idea is to make bots/robots with AI, and they can be driven
-   - nós ter ferramentas IA, só precisamos fazer a IA fazer as coisas como bots/robôs com IA, e podem ser condusidos
-   - we have AI tools, we just need to make AI do things like AI bots/robots, and they can be driven
-   - nós pode usar a AI
-   - we can usa the AI
- # Sonho de Exploração Espacial
+- Minha ideia é aprimorar o que já foi feito e testar novas possibilidades, como bots e robôs.  
+- Temos ferramentas de IA; só precisamos utilizá-las para criar bots/robôs inteligentes que possam ser conduzidos.  
+- Podemos explorar diferentes abordagens para tornar a IA mais eficiente e interativa, aplicando-a em robôs controláveis.  
+
+# Sonho de Exploração Espacial
 
 Visão que combina elementos essenciais:
 
