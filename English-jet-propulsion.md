@@ -11,4 +11,4 @@
 ## engine diagram
 1 General engine diagram:
 - basic engine design:
-- - [gas engine, or liquid](https://github.com/0joseDark/my-python-book/tree/main/doc-en)
+- - [gas engine, or liquid](https://github.com/0joseDark/dream/blob/main/teste_de_desenho-motor_de_combustao-1.jpg)
