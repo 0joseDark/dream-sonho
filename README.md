@@ -2,6 +2,7 @@
 # "dream" livro, em construção
  hello, i am have a dream, and talents, eyes that deconstruct, whether living animals or machines, I have the dream, to send machines to Mars to build for humans
  ""
+ # [Biografia ou Currículo](https://github.com/0joseDark/dream/blob/main/Biografia-Curr%C3%ADculo.md)
  - - [english version](https://github.com/0joseDark/dream/blob/main/en-README.md)
    - minha ideia é fazer o que está feito, e testar novas coisas como bots/robots
    - My idea is to do what is already done, and test new things like bots/robots
