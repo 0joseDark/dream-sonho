@@ -24,7 +24,7 @@ Visão que combina elementos essenciais:
   - Conhecimento de sistemas mecânicos
   
 3. **Expansão Espacial**
-  - propulsão a jato
+  - [propulsão a jato](https://github.com/0joseDark/dream/blob/main/jet-propulsion.md)
   - Aspiração de colonização além da Terra
   - Desenvolvimento de habitats extraterrestres
 
