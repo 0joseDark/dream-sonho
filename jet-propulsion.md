@@ -11,4 +11,4 @@
 ## esquema do motor 
 1 esquema geral do motor:
 - desenho base do motor: 
-- - [motor a gaz, ou liquido](https://github.com/0joseDark/dream/blob/main/teste_de_desenho-motor_de_combustao-1.jpg)
+- - ![motor a gaz, ou liquido](https://github.com/0joseDark/dream/blob/main/teste_de_desenho-motor_de_combustao-1.jpg)
