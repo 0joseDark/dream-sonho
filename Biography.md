@@ -1,4 +1,4 @@
-# Biography or Resume
+# Biography
 
 ## About Me
 I am a researcher and a true idealist because I am always coming up with new ideas! I can't stop; I am always studying something new.
