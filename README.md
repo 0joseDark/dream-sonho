@@ -27,7 +27,7 @@ Visão que combina elementos essenciais:
 
 4. **Tecnologias Avançadas**
   - Robótica espacial
-  - Sistemas de construção autônoma
+  - [Sistemas de construção autônoma](https://github.com/0joseDark/dream/blob/main/ambiente_hostil.md)
 
 ## Áreas de Pesquisa Relacionadas
 
