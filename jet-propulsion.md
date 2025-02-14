@@ -9,7 +9,7 @@
 - - programa em C ou C++ para o arduino:
 - - fazer o programa para o arduino, e testar.
 ## esquema do motor 
-1. esquema geral do motor:
+1. esquema geral do motor: vou começar pelo mais basico, e testando em vácuo se isto trabalha
 - desenho base do motor: 
 - - ![motor a gaz, ou liquido](https://github.com/0joseDark/dream/blob/main/teste_de_desenho-motor_de_combustao-1.jpg)
   - vou começar os testes em ambiente controlado
