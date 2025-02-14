@@ -1,6 +1,6 @@
 - projeto dum metor a gaz, sem pessas moveis, controlado eletronicamente, e por software.
 # vamos por passos:
-1. o motor a gaz:
+1. o motor a gaz: motor a jato sem pesas moveis
 2. o gaz usado: hidrogênio e metano, e oxigênio
 3. a ignição do motor: uso de uma vela para ignição
  - inição eletrica: uso de eletroválvulas para o gaz controlado pelo raspberry pi e ardoino
