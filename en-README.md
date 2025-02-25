@@ -49,4 +49,4 @@ Vision that combines essential elements:
 *Questions for reflection:*
 - What is your experience in these areas?
 - How do you imagine preparing Mars for habitation?
-**if yes, send me an email** josegrand65@gmail.com
+**if yes, send me a note or MI on https://secondlife.com/ **
