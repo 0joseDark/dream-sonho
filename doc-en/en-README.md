@@ -46,7 +46,7 @@ Vision that combines essential elements:
 
 ---
  - - [melt metal in space](https://github.com/0joseDark/dream/blob/main/doc-en/English-melt-metal.md)
-*Questions for reflection:*
+- *Questions for reflection:*
 - What is your experience in these areas?
 - How do you imagine preparing Mars for habitation?
 **if yes, send me a note or MI on https://secondlife.com/ or josegrand65@gmail.com
