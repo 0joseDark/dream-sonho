@@ -24,7 +24,7 @@ Vision that combines essential elements:
 
 4. **Advanced Technologies**
  - Space robotics
- - [Autonomous construction systems](https://github.com/0joseDark/dream/blob/main/hostile-environment.md)
+ - [Autonomous construction systems](https://github.com/0joseDark/dream/blob/main/doc-en/hostile-environment.md)
 
 ## Related Research Areas
 
@@ -45,7 +45,7 @@ Vision that combines essential elements:
  - Solutions for habitation on Mars
 
 ---
- - - [melt metal in space](https://github.com/0joseDark/dream/blob/main/English-melt-metal.md)
+ - - [melt metal in space](https://github.com/0joseDark/dream/blob/main/doc-en/English-melt-metal.md)
 *Questions for reflection:*
 - What is your experience in these areas?
 - How do you imagine preparing Mars for habitation?
