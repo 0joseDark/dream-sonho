@@ -2,8 +2,8 @@
 # "dream" livro, em construção
  hello, i am have a dream, and talents, eyes that deconstruct, whether living animals or machines, I have the dream, to send machines to Mars to build for humans
  ""
- # [Biografia ou Currículo](https://github.com/0joseDark/dream/blob/main/Biografia-Curr%C3%ADculo.md)
- - - [english version](https://github.com/0joseDark/dream/blob/main/en-README.md)
+ # [Biografia ou Currículo](https://github.com/0joseDark/dream-sonho/blob/main/doc-pt/Biografia-Curr%C3%ADculo.md)
+ - - [english version](https://github.com/0joseDark/dream/blob/main/doc-en/en-README.md)
 - Minha ideia é aprimorar o que já foi feito e testar novas possibilidades, como bots e robôs.  
 - Temos ferramentas de IA; só precisamos utilizá-las para criar bots/robôs inteligentes que possam ser conduzidos.  
 - Podemos explorar diferentes abordagens para tornar a IA mais eficiente e interativa, aplicando-a em robôs controláveis.  
