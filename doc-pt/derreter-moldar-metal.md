@@ -1,3 +1,4 @@
+- ![fundição](https://github.com/0joseDark/dream-sonho/blob/main/images/fundicao.png)
 - [voltar](https://github.com/0joseDark/dream-sonho/blob/main/README.md) 
 - Interessante questão! No espaço, derreter e moldar metal ou rocha tem desafios únicos devido à microgravidade, falta de atmosfera e necessidade de energia. Vamos explorar isso passo a passo.
 ### **1. Como derreter metal ou rocha no espaço?**
