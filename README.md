@@ -21,13 +21,13 @@ Visão que combina elementos essenciais:
   - Conhecimento de sistemas mecânicos
   
 3. **Expansão Espacial**
-  - [propulsão a jato](https://github.com/0joseDark/dream/blob/main/jet-propulsion.md)
+  - [propulsão a jato](https://github.com/0joseDark/dream/blob/main/doc-pt/jet-propulsion.md)
   - Aspiração de colonização além da Terra
   - Desenvolvimento de habitats extraterrestres
 
 4. **Tecnologias Avançadas**
   - Robótica espacial
-  - [Sistemas de construção autônoma](https://github.com/0joseDark/dream/blob/main/ambiente_hostil.md)
+  - [Sistemas de construção autônoma](https://github.com/0joseDark/dream/blob/main/doc-pt/ambiente_hostil.md)
 
 ## Áreas de Pesquisa Relacionadas
 
@@ -48,7 +48,7 @@ Visão que combina elementos essenciais:
  - Soluções para habitação em Marte
 
 ---
- - - [derreter e moldar metal no espaço](https://github.com/0joseDark/dream/blob/main/derreter-moldar-metal.md)
+ - - [derreter e moldar metal no espaço](https://github.com/0joseDark/dream/blob/main/doc-pt/derreter-moldar-metal.md)
 
 *Perguntas para reflexão:*
 - Qual sua experiência nestas áreas?
