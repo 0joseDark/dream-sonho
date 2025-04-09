@@ -4,7 +4,7 @@
  - My idea is to improve what has already been done and explore new possibilities, such as bots and robots.
  - We have AI tools; we just need to use them to create intelligent bots/robots that can be driven.
  - We can explore different approaches to make AI more efficient and interactive, applying it to controllable robots.
- - [Biography](https://github.com/0joseDark/dream/blob/main/Biography.md)
+ - [Biography](https://github.com/0joseDark/dream/blob/main/doc-en/Biography.md)
 # Space Exploration Dream
 
 Vision that combines essential elements:
@@ -18,7 +18,7 @@ Vision that combines essential elements:
  - Knowledge of mechanical systems
 
 3. **Space Expansion**
- - [jet propulsion](https://github.com/0joseDark/dream/blob/main/English-jet-propulsion.md)
+ - [jet propulsion](https://github.com/0joseDark/dream/blob/main/doc-en/English-jet-propulsion.md)
  - Aspiration for colonization beyond Earth
  - Development of extraterrestrial habitats
 
