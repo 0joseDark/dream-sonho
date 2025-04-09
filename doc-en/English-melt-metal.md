@@ -1,3 +1,4 @@
+- [foundry](https://github.com/0joseDark/dream-sonho/blob/main/images/fundicao.png)
 - [back](https://github.com/0joseDark/dream-sonho/edit/main/doc-en/en-README.md)
 - Interesting question! In space, melting and shaping metal or rock presents unique challenges due to microgravity, lack of atmosphere, and energy requirements. Let's explore this step by step.
 ### **1. How can we melt metal or rock in space?**  
