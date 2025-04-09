@@ -53,5 +53,5 @@ Visão que combina elementos essenciais:
 *Perguntas para reflexão:*
 - Qual sua experiência nestas áreas?
 - Como você imagina a preparação de Marte para habitação?
-**if yes, send me a note or MI on https://secondlife.com/ **
+**if yes, send me a note or MI on https://secondlife.com/  or josegrand65@gmail.com
  
