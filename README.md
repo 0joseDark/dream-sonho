@@ -26,7 +26,7 @@ Visão que combina elementos essenciais:
   - Desenvolvimento de habitats extraterrestres
 
 4. **Tecnologias Avançadas**
-  - Robótica espacial
+  - [Robótica espacial](https://github.com/0joseDark/dream-sonho/blob/main/doc-pt/Robotica-Espacial.md)
   - [Sistemas de construção autônoma](https://github.com/0joseDark/dream/blob/main/doc-pt/ambiente_hostil.md)
 
 ## Áreas de Pesquisa Relacionadas
@@ -49,8 +49,8 @@ Visão que combina elementos essenciais:
 
 ---
  - - [derreter e moldar metal no espaço](https://github.com/0joseDark/dream/blob/main/doc-pt/derreter-moldar-metal.md)
-
-*Perguntas para reflexão:*
+![modulos](https://github.com/0joseDark/dream-sonho/blob/main/images/ChatGPT%20Image%2010_04_2025%2C%2020_45_20.png)
+*Perguntas para reflexão*
 - Qual sua experiência nestas áreas?
 - Como você imagina a preparação de Marte para habitação?
 **if yes, send me a note or MI on https://secondlife.com/  or josegrand65@gmail.com
