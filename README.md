@@ -26,7 +26,7 @@ Visão que combina elementos essenciais:
   - Desenvolvimento de habitats extraterrestres
 
 4. **Tecnologias Avançadas**
-  - Robótica espacial
+  - [Robótica espacial](https://github.com/0joseDark/dream-sonho/blob/main/doc-pt/Robotica-Espacial.md)
   - [Sistemas de construção autônoma](https://github.com/0joseDark/dream/blob/main/doc-pt/ambiente_hostil.md)
 
 ## Áreas de Pesquisa Relacionadas
