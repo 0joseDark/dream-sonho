@@ -49,7 +49,9 @@ Visão que combina elementos essenciais:
 
 ---
  - - [derreter e moldar metal no espaço](https://github.com/0joseDark/dream/blob/main/doc-pt/derreter-moldar-metal.md)
+![modulos pressurizados](https://github.com/0joseDark/dream-sonho/blob/main/images/ChatGPT%20Image%2010_04_2025%2C%2021_30_04.png)
 ![modulos](https://github.com/0joseDark/dream-sonho/blob/main/images/ChatGPT%20Image%2010_04_2025%2C%2020_45_20.png)
+![modulos, construção da nave](https://github.com/0joseDark/dream-sonho/blob/main/images/ChatGPT%20Image%2011_04_2025%2C%2004_58_28.png)
 *Perguntas para reflexão*
 - Qual sua experiência nestas áreas?
 - Como você imagina a preparação de Marte para habitação?
